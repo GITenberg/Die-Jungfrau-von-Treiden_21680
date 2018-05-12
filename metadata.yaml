@@ -1,0 +1,28 @@
+_repo: Die-Jungfrau-von-Treiden_21680
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cammerer, Adelbert
+    alias: Kamerer, Adalbert-Filipp
+    birthdate: 1786
+    deathdate: 1848
+    gutenberg_agent_id: '24855'
+    url: http://www.gutenberg.org/2009/agents/24855
+description: ''
+gutenberg_bookshelf: DE Lyrik
+gutenberg_issued: '2007-06-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21680'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German poetry -- 19th century'
+- !lcc 'PT'
+title: Die Jungfrau von Treiden
+url: http://www.gutenberg.org/ebooks/21680
