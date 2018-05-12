@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '24855'
     url: http://www.gutenberg.org/2009/agents/24855
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21680#Die-Jungfrau-von-Treiden
 gutenberg_bookshelf: DE Lyrik
 gutenberg_issued: '2007-06-04'
 gutenberg_type: Text
